@@ -1,0 +1,2 @@
+{"Type":"Manager","UserName":"MASTER","Name":"MASTER","Password":"MASTER"}
+{"Type":"Salesman","UserName":"SALESMAN","Name":"SALESMAN","Password":"SALESMAN"}
