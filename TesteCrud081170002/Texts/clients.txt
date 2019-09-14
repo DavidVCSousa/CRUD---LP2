@@ -1,0 +1,3 @@
+{"Type":"Client","CPF":"56707309099","ID":0,"Name":"CARLOS"}
+{"Type":"Client","CPF":"68359826080","ID":1,"Name":"Pedro"}
+{"Type":"Client","CPF":"80131595075","ID":2,"Name":"k"}
