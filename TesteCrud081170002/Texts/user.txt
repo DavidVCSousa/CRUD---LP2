@@ -1,4 +1,0 @@
-{"Type":"Master","password":"master","CPF":"000.000.000-00","ID":0,"login":"master","Name":"Master"}
-{"Type":"Salesman","password":"f","CPF":"80131595075","ID":1,"login":"f","Name":"f"}
-{"Type":"Manager","password":"d","CPF":"80131595075","ID":2,"login":"d","Name":"d"}
-{"Type":"Salesman","password":"g","CPF":"80131595075","ID":3,"login":"g","Name":"g"}
