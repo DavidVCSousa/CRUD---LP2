@@ -18,6 +18,7 @@ public class Main {
             if(loggedUserBase != null) {
                 System.out.println("Logged in as " + loggedUserBase.getName());
             }
+            //
             exit = consoleState.execute();
             System.out.println("**************************************");
         }
